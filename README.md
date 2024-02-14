@@ -32,6 +32,5 @@ This Program will return your text in encrypted form according to the key provid
 # Contact Information
 Include your contact information (email, GitHub profile, etc.) in case others have questions or want to reach out regarding the project.
 
------------------------------------------------------------------------------------------------##########-----------------------------------------------------------------------------------------------------
-----------------
+----------------------------------##########----------------------------------------------------
 Feel free to adapt and expand upon this template to suit your specific project and experiences during your internship with Prodigy.
